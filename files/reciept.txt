@@ -1,0 +1,19 @@
+Name: Test Account
+Address: 550 Courtneypark Dr W
+City: Mississauga
+Postal: L5W1L9
+Province: Ontario
+
+Property Damage: $16.00
+Uninsured Motorist: $30.00
+Grand Touring Solution: $75.00
+Restriction Glass Coverage: $90.00
+Accident Forgiveness: $199.00
+Bodily Injury: $540.00
+Comprehensive Coverage: $598.00
+Limited Waiver of Depreciation: $608.00
+Collision Coverage: $737.00
+Accident Benefits: $881.00
+Direct Compensation: $1,135.00
+Total: $4,909.00
+

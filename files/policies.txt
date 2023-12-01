@@ -1,0 +1,4 @@
+3
+TD Insurance,Bodily Injury,540,Property Damage,16,Direct Compensation - Property Damage,1135,Accident benefits,881,Uninsured Motorist,30,Limited Waiver of Depreciation,608,Collision,737,Comprehensive Coverage,598,Grand Touring Solution®,75,Restriction Glass Coverage,90,Accident Forgiveness,199
+CAA, Bodily Injury,800,Property Damage,21,Direct Compensation - Property Damage,1873,Accident benefits,991,Uninsured Motorist,33,Limited Waiver of Depreciation,502,Collision,811,Comprehensive Coverage,433,Grand Touring Solution®,32,Restriction Glass Coverage,76,Accident Forgiveness,250
+Allstate,Bodily Injury,390,Property Damage,0,Direct Compensation - Property Damage,512,Accident benefits,467,Uninsured Motorist,12,Limited Waiver of Depreciation,500,Collision,456,Comprehensive Coverage,321,Grand Touring Solution®,7,Restriction Glass Coverage,50,Accident Forgiveness,100
